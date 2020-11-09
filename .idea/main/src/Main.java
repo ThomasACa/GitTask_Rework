@@ -5,6 +5,10 @@ public class Main {
         myMethodTwo();
         myMethodThree();
         myMethodFour(3);
+        System.out.println("Task 8 multi commits 1");
+        System.out.println("Task 8 multi commits 2");
+        System.out.println("Task 8 multi commits 3");
+
     }
 
     static int myMethod(int x) {
